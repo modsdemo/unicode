@@ -1,0 +1,3 @@
+package badger
+
+const Badger = "🦡"
